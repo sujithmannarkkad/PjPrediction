@@ -1,0 +1,2 @@
+--find-links wheelhouse
+pandas>=0.18.1
