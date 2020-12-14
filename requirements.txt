@@ -13,7 +13,7 @@ cffi==1.14.3
 chardet==3.0.4
 click==7.1.2
 clint==0.5.1
-docopt==0.6.2
+python3-docopt==0.6.2
 coco==0.4.0
 colorama==0.4.4
 cycler==0.10.0
