@@ -5,4 +5,4 @@ requests==2.25.0
 sklearn==0.0
 xlrd==1.2.0
 matplotlib==3.3.3
-
+imbalanced-learn==0.7.0
