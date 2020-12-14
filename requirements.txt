@@ -1,4 +1,3 @@
---find-links wheelhouse
 absl-py==0.11.0
 argon2-cffi==20.1.0
 args==0.1.0
@@ -20,7 +19,7 @@ cycler==0.10.0
 Cython==0.29.21
 decorator==4.4.2
 defusedxml==0.6.0
-docopt==0.6.2
+
 dython==0.6.1
 entrypoints==0.3
 Flask==1.1.2
